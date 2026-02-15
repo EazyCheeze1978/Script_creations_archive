@@ -1,5 +1,7 @@
 # A (hopefully!) growing collection of my little script creations that can hopefully help out various communities!
 
+[But not growing anymore - I have chosen to fork all of my current and upcoming projects and archive this repo. Please see my profile for my hopefully ever-growing list of practical repos!]
+
 ## "CursorCommander" (thanks for the cheese there, ChatGPT)
 
 See the [README within its folder](RestoreCursorWhenLaunchBoxCloses/readme.md) for more info, but this is a little script that will help restore the default Windows mouse cursor scheme (so far!) when the emulator front-ends LaunchBox or BigBox close.
